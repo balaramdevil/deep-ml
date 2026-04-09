@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:48:49.012Z",
+  "generated_at": "2026-11-22T10:48:51.005Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -271,6 +271,97 @@
       "path": "problems/0044-leaky-relu-activation-function",
       "first_solved_at": "2026-04-08T11:04:41.431Z",
       "last_pushed_at": "2026-04-08T11:04:41.431Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-04-09T06:15:00.831Z",
+      "last_pushed_at": "2026-04-09T06:15:00.831Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-04-09T06:17:51.935Z",
+      "last_pushed_at": "2026-04-09T06:17:51.935Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-04-09T06:25:38.041Z",
+      "last_pushed_at": "2026-04-09T06:25:38.041Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-04-09T06:32:23.943Z",
+      "last_pushed_at": "2026-04-09T06:32:23.943Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-04-09T06:35:23.378Z",
+      "last_pushed_at": "2026-04-09T06:35:23.378Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-04-09T08:43:44.925Z",
+      "last_pushed_at": "2026-04-09T08:43:44.925Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-04-09T08:45:05.881Z",
+      "last_pushed_at": "2026-04-09T08:45:05.881Z",
       "language": "python",
       "lines": 5
     }
