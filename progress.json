@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:49:05.889Z",
+  "generated_at": "2026-11-24T18:43:44.440Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -687,6 +687,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-18T10:58:36.480Z",
       "last_pushed_at": "2026-11-22T10:49:05.887Z"
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-11-24T18:43:43.497Z",
+      "last_pushed_at": "2026-11-24T18:43:43.497Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
